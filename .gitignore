@@ -4,6 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+*.lock
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -60,3 +61,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Anchor Handler/Temp/UnityLockfile
